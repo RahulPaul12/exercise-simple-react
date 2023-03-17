@@ -1,0 +1,602 @@
+[
+  {
+    "first_name": "Jennifer",
+    "sentence": "Integer ut tellus leo",
+    "second": "58",
+    "color_hex": "#B2EC5D"
+  },
+  {
+    "first_name": "Katherine",
+    "sentence": "Nulla vitae odio urna",
+    "second": "32",
+    "color_hex": "#BBB477"
+  },
+  {
+    "first_name": "Theodore",
+    "sentence": "Duis facilisis justo eget mauris hendrerit bibendum in eu nulla",
+    "second": "39",
+    "color_hex": "#A1CAF1"
+  },
+  {
+    "first_name": "Natalie",
+    "sentence": "Curabitur ex nibh, ullamcorper ut sollicitudin eget, lacinia eget dolor.",
+    "second": "16",
+    "color_hex": "#064E40"
+  },
+  {
+    "first_name": "Andrew",
+    "sentence": "Phasellus sapien lorem, mollis vel lectus vel, bibendum fermentum ligula",
+    "second": "26",
+    "color_hex": "#704214"
+  },
+  {
+    "first_name": "Jasmine",
+    "sentence": "Praesent bibendum, augue eu aliquam gravida, lectus sapien fringilla ipsum, non tincidunt leo felis eu augue",
+    "second": "53",
+    "color_hex": "#E9967A"
+  },
+  {
+    "first_name": "Amanda",
+    "sentence": "In sollicitudin, tellus nec vehicula luctus, sem lacus cursus felis, ac fringilla ante nisi ac sapien",
+    "second": "35",
+    "color_hex": "#59260B"
+  },
+  {
+    "first_name": "Layla",
+    "sentence": "Nam scelerisque eleifend lorem ut efficitur.",
+    "second": "39",
+    "color_hex": "#D3212D"
+  },
+  {
+    "first_name": "Austin",
+    "sentence": "Aenean hendrerit venenatis auctor.",
+    "second": "08",
+    "color_hex": "#007F5C"
+  },
+  {
+    "first_name": "Anthony",
+    "sentence": "In tempor tortor sit amet leo sollicitudin, ultrices commodo turpis posuere",
+    "second": "19",
+    "color_hex": "#007474"
+  },
+  {
+    "first_name": "Aaron",
+    "sentence": "Quisque laoreet ullamcorper consequat",
+    "second": "11",
+    "color_hex": "#E3DAC9"
+  },
+  {
+    "first_name": "Michelle",
+    "sentence": "Morbi sodales dui vitae tristique tincidunt",
+    "second": "14",
+    "color_hex": "#FAE6FA"
+  },
+  {
+    "first_name": "Jeremy",
+    "sentence": "Vivamus eu lacus magna",
+    "second": "57",
+    "color_hex": "#800080"
+  },
+  {
+    "first_name": "Amelia",
+    "sentence": "Nunc erat justo, bibendum id iaculis nec, rhoncus nec urna",
+    "second": "41",
+    "color_hex": "#89CFF0"
+  },
+  {
+    "first_name": "Richard",
+    "sentence": "Proin vehicula felis non ligula sollicitudin placerat ut nec mauris",
+    "second": "55",
+    "color_hex": "#DFFF00"
+  },
+  {
+    "first_name": "Abigail",
+    "sentence": "Aenean volutpat condimentum efficitur",
+    "second": "02",
+    "color_hex": "#FF7800"
+  },
+  {
+    "first_name": "James",
+    "sentence": "Pellentesque vel suscipit metus.",
+    "second": "19",
+    "color_hex": "#967117"
+  },
+  {
+    "first_name": "Kelsey",
+    "sentence": "Praesent accumsan venenatis leo eget tempor",
+    "second": "11",
+    "color_hex": "#BF4F51"
+  },
+  {
+    "first_name": "Brianna",
+    "sentence": "Ut sed tincidunt nibh, non cursus nunc.",
+    "second": "58",
+    "color_hex": "#1C05B3"
+  },
+  {
+    "first_name": "Kelsey",
+    "sentence": "Curabitur quis risus a tortor sollicitudin fringilla id ac nibh.",
+    "second": "39",
+    "color_hex": "#66DDAA"
+  },
+  {
+    "first_name": "Joshua",
+    "sentence": "Nunc ligula mi, scelerisque vitae lobortis vitae, blandit a dolor",
+    "second": "21",
+    "color_hex": "#DEB887"
+  },
+  {
+    "first_name": "Grace",
+    "sentence": "Aliquam id justo eu nibh bibendum ornare in nec nunc",
+    "second": "41",
+    "color_hex": "#4166F5"
+  },
+  {
+    "first_name": "Charles",
+    "sentence": "Proin in sapien est.",
+    "second": "59",
+    "color_hex": "#DF00FF"
+  },
+  {
+    "first_name": "Tiffany",
+    "sentence": "Cras a ante sem",
+    "second": "49",
+    "color_hex": "#008000"
+  },
+  {
+    "first_name": "Mark",
+    "sentence": "Mauris venenatis dolor vel magna rhoncus molestie",
+    "second": "01",
+    "color_hex": "#010B13"
+  },
+  {
+    "first_name": "Justin",
+    "sentence": "Sed interdum et tortor ut laoreet",
+    "second": "28",
+    "color_hex": "#FAFA37"
+  },
+  {
+    "first_name": "Kelsey",
+    "sentence": "In sed nunc suscipit, luctus mauris eu, congue sapien",
+    "second": "58",
+    "color_hex": "#A9BA9D"
+  },
+  {
+    "first_name": "Gabriel",
+    "sentence": "Integer placerat quis nulla ac vestibulum",
+    "second": "05",
+    "color_hex": "#9F00FF"
+  },
+  {
+    "first_name": "Amber",
+    "sentence": "Pellentesque vel suscipit metus.",
+    "second": "12",
+    "color_hex": "#D891EF"
+  },
+  {
+    "first_name": "Danielle",
+    "sentence": "Sed ultricies nisi sed rhoncus pretium",
+    "second": "29",
+    "color_hex": "#0000FF"
+  },
+  {
+    "first_name": "Oliver",
+    "sentence": "Sed eu nisl gravida, maximus nulla nec, bibendum ligula",
+    "second": "54",
+    "color_hex": "#FF1493"
+  },
+  {
+    "first_name": "Michael",
+    "sentence": "Fusce at nunc orci",
+    "second": "06",
+    "color_hex": "#A2006D"
+  },
+  {
+    "first_name": "Amanda",
+    "sentence": "Suspendisse potenti",
+    "second": "32",
+    "color_hex": "#987456"
+  },
+  {
+    "first_name": "Dylan",
+    "sentence": "Interdum et malesuada fames ac ante ipsum primis in faucibus",
+    "second": "01",
+    "color_hex": "#00FF7F"
+  },
+  {
+    "first_name": "Ethan",
+    "sentence": "Vestibulum tempor dictum felis non condimentum",
+    "second": "59",
+    "color_hex": "#A83731"
+  },
+  {
+    "first_name": "Timothy",
+    "sentence": "Nunc rutrum dapibus odio vel efficitur",
+    "second": "22",
+    "color_hex": "#FF9966"
+  },
+  {
+    "first_name": "Sarah",
+    "sentence": "Nam a imperdiet augue",
+    "second": "36",
+    "color_hex": "#1E90FF"
+  },
+  {
+    "first_name": "Joshua",
+    "sentence": "Nulla vestibulum maximus justo eget efficitur",
+    "second": "17",
+    "color_hex": "#BDB76B"
+  },
+  {
+    "first_name": "Eric",
+    "sentence": "In ut libero orci",
+    "second": "18",
+    "color_hex": "#A75502"
+  },
+  {
+    "first_name": "Jose",
+    "sentence": "Vestibulum quam eros, semper nec sollicitudin et, rhoncus ac nulla",
+    "second": "54",
+    "color_hex": "#CC3336"
+  },
+  {
+    "first_name": "Kaitlyn",
+    "sentence": "Suspendisse eros enim, iaculis sodales auctor et, tincidunt quis enim",
+    "second": "30",
+    "color_hex": "#FE28A2"
+  },
+  {
+    "first_name": "Ryan",
+    "sentence": "Duis vel nunc quis leo congue interdum.",
+    "second": "39",
+    "color_hex": "#E60026"
+  },
+  {
+    "first_name": "Samuel",
+    "sentence": "Integer interdum turpis ex, in vehicula magna consequat auctor",
+    "second": "11",
+    "color_hex": "#F0EAD6"
+  },
+  {
+    "first_name": "Thomas",
+    "sentence": "Pellentesque convallis turpis in felis gravida sollicitudin",
+    "second": "57",
+    "color_hex": "#5B3256"
+  },
+  {
+    "first_name": "Sara",
+    "sentence": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "second": "05",
+    "color_hex": "#FFB7C5"
+  },
+  {
+    "first_name": "Ryan",
+    "sentence": "Phasellus vel efficitur ipsum",
+    "second": "11",
+    "color_hex": "#0093AF"
+  },
+  {
+    "first_name": "Brian",
+    "sentence": "Nullam aliquam rutrum purus",
+    "second": "36",
+    "color_hex": "#848482"
+  },
+  {
+    "first_name": "Melissa",
+    "sentence": "Praesent aliquam tellus lobortis arcu rutrum, ac tincidunt arcu egestas",
+    "second": "04",
+    "color_hex": "#C08081"
+  },
+  {
+    "first_name": "Courtney",
+    "sentence": "Nulla elementum hendrerit commodo",
+    "second": "51",
+    "color_hex": "#AF4035"
+  },
+  {
+    "first_name": "David",
+    "sentence": "Ut sed lacinia libero",
+    "second": "16",
+    "color_hex": "#A0D6B4"
+  },
+  {
+    "first_name": "Christopher",
+    "sentence": "Sed condimentum sapien eu bibendum porta",
+    "second": "25",
+    "color_hex": "#3B2F2F"
+  },
+  {
+    "first_name": "Layla",
+    "sentence": "Nulla rutrum volutpat porta",
+    "second": "47",
+    "color_hex": "#B284BE"
+  },
+  {
+    "first_name": "Maria",
+    "sentence": "Vestibulum tempor dictum felis non condimentum",
+    "second": "40",
+    "color_hex": "#00FFEF"
+  },
+  {
+    "first_name": "Erin",
+    "sentence": "Suspendisse ornare quis odio eget suscipit",
+    "second": "26",
+    "color_hex": "#6F4E37"
+  },
+  {
+    "first_name": "Alexander",
+    "sentence": "In iaculis in risus condimentum rhoncus",
+    "second": "58",
+    "color_hex": "#32174D"
+  },
+  {
+    "first_name": "Sara",
+    "sentence": "Vivamus venenatis dapibus sem, sit amet placerat tortor blandit eget",
+    "second": "59",
+    "color_hex": "#D74894"
+  },
+  {
+    "first_name": "Theodore",
+    "sentence": "Phasellus dignissim risus vitae tellus elementum convallis",
+    "second": "57",
+    "color_hex": "#00356B"
+  },
+  {
+    "first_name": "Samuel",
+    "sentence": "Phasellus eu urna sapien",
+    "second": "20",
+    "color_hex": "#8F9779"
+  },
+  {
+    "first_name": "Kaitlyn",
+    "sentence": "Duis felis nulla, bibendum sit amet elementum vitae, vestibulum in justo",
+    "second": "01",
+    "color_hex": "#5B3256"
+  },
+  {
+    "first_name": "Jessica",
+    "sentence": "Sed lacinia maximus lacinia",
+    "second": "39",
+    "color_hex": "#CCCCFF"
+  },
+  {
+    "first_name": "Audrey",
+    "sentence": "Aenean pretium mauris id velit elementum, eu scelerisque metus condimentum",
+    "second": "08",
+    "color_hex": "#893F45"
+  },
+  {
+    "first_name": "Haley",
+    "sentence": "Suspendisse potenti",
+    "second": "03",
+    "color_hex": "#FFFF9F"
+  },
+  {
+    "first_name": "Ryan",
+    "sentence": "Etiam sodales, nisi eu tincidunt lacinia, massa lectus mollis ligula, eget rutrum enim nibh ac nulla",
+    "second": "34",
+    "color_hex": "#E3DAC9"
+  },
+  {
+    "first_name": "Matthew",
+    "sentence": "Donec convallis ac tortor vitae tincidunt",
+    "second": "42",
+    "color_hex": "#960018"
+  },
+  {
+    "first_name": "Tyler",
+    "sentence": "Curabitur non nisl at tortor elementum condimentum",
+    "second": "56",
+    "color_hex": "#6B8E23"
+  },
+  {
+    "first_name": "Amelia",
+    "sentence": "Quisque sit amet orci finibus, pulvinar arcu eu, vehicula nulla",
+    "second": "33",
+    "color_hex": "#FD6C9E"
+  },
+  {
+    "first_name": "Jessica",
+    "sentence": "Vestibulum ut aliquam orci",
+    "second": "17",
+    "color_hex": "#007BA7"
+  },
+  {
+    "first_name": "Eleanor",
+    "sentence": "Suspendisse dignissim mi nec dolor rutrum semper.",
+    "second": "46",
+    "color_hex": "#48BF91"
+  },
+  {
+    "first_name": "Victoria",
+    "sentence": "Proin tellus nunc, cursus quis massa a, congue dictum massa",
+    "second": "24",
+    "color_hex": "#8E4585"
+  },
+  {
+    "first_name": "Mateo",
+    "sentence": "Donec nec purus et massa hendrerit finibus",
+    "second": "09",
+    "color_hex": "#D3AF37"
+  },
+  {
+    "first_name": "Kevin",
+    "sentence": "Sed at faucibus libero",
+    "second": "03",
+    "color_hex": "#D3AF37"
+  },
+  {
+    "first_name": "Gabriel",
+    "sentence": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus malesuada tempor odio, sed imperdiet sapien",
+    "second": "21",
+    "color_hex": "#E97451"
+  },
+  {
+    "first_name": "Lauren",
+    "sentence": "Interdum et malesuada fames ac ante ipsum primis in faucibus",
+    "second": "28",
+    "color_hex": "#246BCE"
+  },
+  {
+    "first_name": "Owen",
+    "sentence": "Nullam eleifend nisl sed leo bibendum, quis laoreet massa vestibulum",
+    "second": "29",
+    "color_hex": "#CFB53B"
+  },
+  {
+    "first_name": "Richard",
+    "sentence": "Suspendisse ante erat, viverra et dui euismod, semper rhoncus neque",
+    "second": "26",
+    "color_hex": "#6699CC"
+  },
+  {
+    "first_name": "Heather",
+    "sentence": "Donec tempor lorem ipsum, sed imperdiet sem rhoncus vel",
+    "second": "52",
+    "color_hex": "#D7837F"
+  },
+  {
+    "first_name": "William",
+    "sentence": "Sed interdum et tortor ut laoreet",
+    "second": "13",
+    "color_hex": "#B2FFFF"
+  },
+  {
+    "first_name": "Robert",
+    "sentence": "Pellentesque id massa arcu",
+    "second": "40",
+    "color_hex": "#6F4E37"
+  },
+  {
+    "first_name": "Brittany",
+    "sentence": "Suspendisse potenti",
+    "second": "44",
+    "color_hex": "#7C0A02"
+  },
+  {
+    "first_name": "Patrick",
+    "sentence": "Nunc placerat tempor ipsum",
+    "second": "41",
+    "color_hex": "#F4A460"
+  },
+  {
+    "first_name": "Theodore",
+    "sentence": "Nunc ut ultrices orci, in lacinia velit",
+    "second": "31",
+    "color_hex": "#701C1C"
+  },
+  {
+    "first_name": "Brian",
+    "sentence": "Curabitur egestas molestie tortor, vitae maximus velit auctor in",
+    "second": "27",
+    "color_hex": "#664228"
+  },
+  {
+    "first_name": "James",
+    "sentence": "Maecenas vulputate libero eget quam dictum, ac pellentesque enim commodo",
+    "second": "29",
+    "color_hex": "#ED1C24"
+  },
+  {
+    "first_name": "Charles",
+    "sentence": "Nulla in diam ut magna semper varius.",
+    "second": "07",
+    "color_hex": "#D6CADD"
+  },
+  {
+    "first_name": "Laura",
+    "sentence": "Integer ut vehicula odio, eget rhoncus tellus",
+    "second": "18",
+    "color_hex": "#7B3F00"
+  },
+  {
+    "first_name": "Tyler",
+    "sentence": "Ut venenatis id orci quis vehicula",
+    "second": "02",
+    "color_hex": "#00BFFF"
+  },
+  {
+    "first_name": "Aaron",
+    "sentence": "In hac habitasse platea dictumst",
+    "second": "12",
+    "color_hex": "#FFFF9F"
+  },
+  {
+    "first_name": "Stephen",
+    "sentence": "Cras pharetra iaculis urna porttitor vestibulum",
+    "second": "43",
+    "color_hex": "#BF00FF"
+  },
+  {
+    "first_name": "Julian",
+    "sentence": "Maecenas pharetra lorem quis erat dapibus pretium",
+    "second": "05",
+    "color_hex": "#B94E48"
+  },
+  {
+    "first_name": "Emily",
+    "sentence": "Mauris magna risus, scelerisque in lacinia non, pulvinar nec nulla",
+    "second": "13",
+    "color_hex": "#00FF7F"
+  },
+  {
+    "first_name": "Austin",
+    "sentence": "Suspendisse sit amet luctus lacus",
+    "second": "21",
+    "color_hex": "#5B3256"
+  },
+  {
+    "first_name": "Zachary",
+    "sentence": "Proin sapien tortor, fermentum eu ante vel, faucibus euismod tellus",
+    "second": "20",
+    "color_hex": "#E3AB57"
+  },
+  {
+    "first_name": "Adam",
+    "sentence": "Etiam vitae ex vel tortor viverra dictum a nec arcu.",
+    "second": "21",
+    "color_hex": "#F400A1"
+  },
+  {
+    "first_name": "Samuel",
+    "sentence": "Maecenas varius diam sit amet eros volutpat, tempor efficitur urna ornare.",
+    "second": "24",
+    "color_hex": "#FFFAF0"
+  },
+  {
+    "first_name": "Claire",
+    "sentence": "Praesent sit amet ex eget massa malesuada laoreet ac non sapien",
+    "second": "39",
+    "color_hex": "#5218FA"
+  },
+  {
+    "first_name": "Alexandra",
+    "sentence": "Duis sed sem posuere, malesuada nibh eget, scelerisque sem",
+    "second": "54",
+    "color_hex": "#E30B5D"
+  },
+  {
+    "first_name": "Charlotte",
+    "sentence": "Sed vel metus turpis",
+    "second": "32",
+    "color_hex": "#EEDC82"
+  },
+  {
+    "first_name": "Alyssa",
+    "sentence": "Ut eleifend quis quam id mattis",
+    "second": "14",
+    "color_hex": "#AD6F69"
+  },
+  {
+    "first_name": "Victoria",
+    "sentence": "Fusce convallis consequat sodales",
+    "second": "19",
+    "color_hex": "#E0115F"
+  },
+  {
+    "first_name": "Steven",
+    "sentence": "Nam porttitor sagittis elementum",
+    "second": "17",
+    "color_hex": "#733380"
+  }
+]

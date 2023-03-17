@@ -1,0 +1,17 @@
+.header-text{
+    color: #5980f4;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.main{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.all-product{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    padding: 20px;
+
+}
